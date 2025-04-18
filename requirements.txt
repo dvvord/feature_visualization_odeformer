@@ -2,7 +2,7 @@ streamlit==1.43.1
 pandas==2.2.3
 numpy==2.0.2
 odeformer==0.1.7
-mishax
+mishax @ git+https://github.com/google-deepmind/mishax.git
 greenlet==3.1.1
 scikit-learn==1.6.0
 scipy==1.14.1
