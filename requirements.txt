@@ -1,0 +1,14 @@
+streamlit==1.43.1
+pandas==2.2.3
+numpy==2.0.2
+odeformer==0.1.7
+mishax==0.0.1
+greenlet==3.1.1
+scikit-learn==1.6.0
+scipy==1.14.1
+importlib_metadata==8.5.0
+importlib_resources==6.4.5
+matplotlib==3.10.0
+StrEnum==0.4.15
+torch==2.4.1
+sympy==1.11.1
